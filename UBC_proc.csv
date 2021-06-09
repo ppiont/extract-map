@@ -1,19 +1,19 @@
-postcode,where,capacity i,capacity u,name,operational,lat,long,balance
-"49638, Nortrup",Nortrup,"25","25","Delkeskamp, Nortrup","2020","3280468.124877868","4176035.139504844",
-"52372, Kreuzau",Kreuzau,"130","90","PNM Niederauer Muhle, Kreuzau","2020","3076522.4157697046","4073321.0600864408",
-"83064, Raubling",Raubling,"60","50","Heinzel Papier, Raubling","2021","2743994.9771664976","4479169.575452337",
-"HX4 9PY, Holywell Green",Holywell Green,"25","5","Sonoco, Holywell Green","2018","3460528.373353516","3540742.9111787626",
-"88600, Laval sur Vologne",Laval sur Vologne,"16","20","Lucart/Novatissue, Laval sur Vologne",out of order,"2792364.041409439","4075728.9658634136",
-"76000, Rouen",Rouen,"40","20","Essity (Fr), Rouen","2020","2964373.26595414","3676781.4249704285",
-"55023, Borgo a Mozzano",Borgo a Mozzano,"30","30","Lucart (It), Borgo a Mozzano","2020","2318764.343133735","4364523.944693014",
-"50015, Zaragoza",Zaragoza,"150","110","Saica, Zaragoza,","2019","2126539.9718162487","3414643.871706737",
-"8570, Weinfelden",Weinfelden,"35","1","Model AG, Weinfelden","2019","2717436.747108757","4253968.297424877",
-"37135, Verona",Verona,"15","10","Cartiere Saci SpA, Verona","2022","2481204.078648582","4398764.553058069",
-"8130, Frohnleiten",Frohnleiten,"15","7","Mayr Melnhof Karton AG, Frohnleiten","2018","2698707.705810876","4723928.522322894",
-"4409, Glavinitsa",Glavinitsa,"20","10","Ecobulhart, Glavinitsa","2018","2229474.3263118826","5499680.01048509",
-"60102, Norrkoping",Norrkoping,"30","15","Fiskeby, Norrkoping","2021","3958958.0593466843","4681113.73886587",
-"34-100, Wadowice",Wadowice,"20","7","Beskidy, Wadowice","2022","3018610.8354434744","5001119.732249755",
-"78201, Varkaus",Varkaus,"25","10","StoraEnso, Varkaus","2018","4474870.764950743","5239660.170566628",
-"86-100, Swiecie",Swiecie,"6","6","Mondi, Swiecie","2018","3402288.1832247046","4881064.861462909",
-"43-100, Tychy",Tychy,"3","3","TOP, Tychy","2018","3039656.793830132","4962692.666539295",
-"27-440, Cmielow",Cmielow,"3","3","PMP (pressed board), Ćmielów","2018","3150317.4549855837","5127027.164326774"
+name,capacity_i,capacity_u,operational,lat,long
+"Delkeskamp, Nortrup",25,25,2020,3280468.12487787,4176035.13950484
+"PNM Niederauer Muhle, Kreuzau",130,90,2020,3076522.4157697,4073321.06008644
+"Heinzel Papier, Raubling",60,50,2021,2743994.9771665,4479169.57545234
+"Sonoco, Holywell Green",25,5,2018,3460528.37335352,3540742.91117876
+"Lucart/Novatissue, Laval sur Vologne",16,20,out of order,2792364.04140944,4075728.96586341
+"Essity, Rouen",40,20,2020,2964373.26595414,3676781.42497043
+"Lucart, Borgo a Mozzano",30,30,2020,2318764.34313373,4364523.94469301
+"Saica, Zaragoza,",150,110,2019,2126539.97181625,3414643.87170674
+"Model AG, Weinfelden",35,1,2019,2717436.74710876,4253968.29742488
+"Cartiere Saci SpA, Verona",15,10,2022,2481204.07864858,4398764.55305807
+"Mayr Melnhof Karton AG, Frohnleiten",15,7,2018,2698707.70581088,4723928.52232289
+"Ecobulhart, Glavinitsa",20,10,2018,2229474.32631188,5499680.01048509
+"Fiskeby, Norrköping",30,15,2021,3958958.05934668,4681113.73886587
+"Beskidy, Wadowice",20,7,2022,3018610.83544347,5001119.73224976
+"StoraEnso, Varkaus",25,10,2018,4474870.76495074,5239660.17056663
+"Mondi, Świecie",6,6,2018,3402288.1832247,4881064.86146291
+"TOP, Tychy",3,3,2018,3039656.79383013,4962692.66653929
+"PMP, Ćmielów",3,3,2018,3150317.45498558,5127027.16432677
